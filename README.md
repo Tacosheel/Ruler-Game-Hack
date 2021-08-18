@@ -3,7 +3,7 @@ A simple script for the Ruler Game
 ##### For that extra credit ;)
 
 # Instruction
-- Open [script]()
+- Open [script](https://github.com/Tacosheel/Ruler-Game-Hack/blob/main/script)
 - Copy everything inside
 - Go to [rulergame.net/v2-standard-english-ruler-game.php](https://www.rulergame.net/v2-standard-english-ruler-game.php) YOU MUST USE THIS LINK
 - Press Ctrl + Shift + I (Does Not Work on Chromebooks)
