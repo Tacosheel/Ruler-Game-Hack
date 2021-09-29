@@ -5,7 +5,7 @@ A simple script for the Ruler Game
 # Instruction
 - Open [script](https://github.com/Tacosheel/Ruler-Game-Hack/blob/main/script)
 - Copy everything inside
-- Go to [rulergame.net/v2-standard-english-ruler-game.php](https://www.rulergame.net/v2-standard-english-ruler-game.php) YOU MUST USE THIS LINK
+- Go to [rulergame.net/v2-standard-english-ruler-game.php](https://www.rulergame.net/v2-standard-english-ruler-game.php) {YOU MUST USE THIS LINK}
 - Press Ctrl + Shift + I (Does Not Work on Chromebooks)
 - Click Console (I recommend Chrome)
 - Paste
